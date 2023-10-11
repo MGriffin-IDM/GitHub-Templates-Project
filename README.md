@@ -1,4 +1,4 @@
-# Sandbox
+# MSE Test Project
 **Landscape:**
 
   * **Key Problem(s):**  Individuals across IDM create GitHub repositories frequently, and interface is overly complex, and time-consuming. 
