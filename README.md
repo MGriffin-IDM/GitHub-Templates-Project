@@ -1,4 +1,4 @@
-# MSE Test Project
+# GitHub Templates Project
 # github-repository-templates-project
 
 Project tracking repository. Primarily for issues and a GitHub project to manage them. _Maybe_ some sample files and code.
