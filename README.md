@@ -44,7 +44,10 @@ Project tracking repository. Primarily for issues and a GitHub project to manage
 * Oversight Team:  Christopher L, Clinton, Jen S? Research? 
 * Delivery Team: Engineers?  Peter?
 
+# **Maintenance Requirements**
 
+* Who has ownership of this product long-term?
+* What effort & resources will be required to maintain this?
 
 ********************************************************************************************************
 
